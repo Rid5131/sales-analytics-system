@@ -8,7 +8,7 @@ def read_sales_data(filename):
         except UnicodeDecodeError:
             continue
         except FileNotFoundError:
-            print("❌ File not found:", filename)
+            print("File not found:", filename)
             return []
     return []
 
