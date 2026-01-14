@@ -1,4 +1,4 @@
-
+==================================================
 SALES ANALYTICS REPORT
 Generated: 2026-01-14 16:43:43.105888
 Records Processed: 70
