@@ -1,4 +1,4 @@
-TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID| Region|API_Category|API_Brand|API_Rating|API_Match
 T018|2024-12-29|P107|USB Cable|8|173.0|C009|South|None|None|None|False
 T063|2024-12-07|P110|Laptop Charger|6|1916.0|C022|East|None|None|None|False
 T023|2024-12-09|P109|Wireless Mouse|9|523.0|C022|North|None|None|None|False
