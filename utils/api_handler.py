@@ -8,7 +8,7 @@ def fetch_all_products():
         print("✓ API fetch successful")
         return res.json().get('products', [])
     except:
-        print("❌ API fetch failed")
+        print("API fetch failed")
         return []
 
 
